@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         Development is happening here!
+        Noriel
       </header>
     </div>
   );
