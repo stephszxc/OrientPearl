@@ -1,15 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import 'assets/css/vendor.bundle.css?ver=1930';
+import 'assets/css/style-lobelia.css?ver=1930';
+import 'ssets/css/theme.css?ver=1930';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        Development is happening here!
-        Noriel is back and back
-      </header>
-    </div>
+      <h1>Welcome</h1>
   );
 }
 
